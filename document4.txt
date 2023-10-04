@@ -1,2 +1,2 @@
-브랜치 충돌 생성 - main의 내용 변경 
+브랜치 충돌 해결
 Hellohello! my name is Yezzi
